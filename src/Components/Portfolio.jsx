@@ -19,8 +19,8 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
-
+//import image from "../images/design-desk.jpeg";
+import image from "../images/Road.jpg";
 const imageAltText = "desktop with books and laptop";
 
 /**
@@ -53,6 +53,12 @@ const projectList = [
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
+  {
+    title: "Battleship",
+    description:
+      "This is a Battleship game that I created using Java. Please Try it out!",
+    url: "https://github.com/akakak47/Battleship",
   },
 ];
 

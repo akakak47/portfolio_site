@@ -56,8 +56,7 @@ const projectList = [
   },
   {
     title: "Battleship",
-    description:
-      "This is a Battleship game that I created using Java. Please Try it out!",
+    description: "This is a Battleship game that I created using Java. Please Try it out!",
     url: "https://github.com/akakak47/Battleship",
   },
 ];
